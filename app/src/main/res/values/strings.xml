@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="q_text">Please Give us a minute.</string>
+    <string name="take_quiz">Take a Quiz</string>
+    <string name="add_qts">Add a question</string>
+    <string name="qts">Question</string>
+    <string name="tech">Tech</string>
+    <string name="science">Science</string>
+    <string name="hist">History</string>
+    <string name="pol">Politics</string>
+    <string name="choose_cat">Choose Categories for the question</string>
+    <string name="submit">Submit</string>
+    <string name="gk">GK</string>
+    <string name="categories"> Categories: </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="select">Select Answer</string>
+    <string name="valid_details">Please enter valid information</string>
+</resources>

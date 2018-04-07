@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "104256908476",
+    "firebase_url": "https://quizzler-ef04d.firebaseio.com",
+    "project_id": "quizzler-ef04d",
+    "storage_bucket": "quizzler-ef04d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104256908476:android:5809d4246a16f01d",
+        "android_client_info": {
+          "package_name": "com.abhinitsati.quizzler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104256908476-n4u317slkas4kkevtfgif2btcv82nvee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxp7A5Mw3zPsKeFZ7wR3Ibs05SWr6FRtQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
